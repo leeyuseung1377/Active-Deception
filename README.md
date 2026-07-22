@@ -12,7 +12,17 @@ VM 3 : HoneyPot Web  / IP : 192.168.85.160 / spec : 2 vCPU, 4GB
 
 VM 4 : Elasticsearch, Kibana / IP : 192.168.85.105 / spec : 4 vCPU, 8GB 
 
+# Software Components
 
+The following components are used:
+
+* Suricata 8.0.3
+* Nginx
+* Python 3
+* systemd
+* Kali Linux
+* Real Web Server
+* Honeypot Server
 
 Add custom rule file in Suricata.
 Defense OWASP10 attack's.
