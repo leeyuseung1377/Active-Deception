@@ -24,5 +24,11 @@ The following components are used:
 * Real Web Server
 * Honeypot Server
 
+# The Suricata monitoring interface used in this environment is:
+* enp2s0
+
+The local Suricata rule file is:
+* /var/lib/suricata/rules/local.rules
+
 Add custom rule file in Suricata.
 Defense OWASP10 attack's.
